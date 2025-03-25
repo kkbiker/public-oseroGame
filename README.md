@@ -9,7 +9,7 @@
 主な機能のキャプチャを紹介します。
 
 * 質問画面（トップ）
-<kbd><img alt="質問画面" src="https://github.com/champaya/public-alcohol-type/assets/159685650/8079b847-6d83-483a-87a7-cacb9dd168c0"></kbd>
+<kbd><img src="https://github.com/user-attachments/assets/e5316b66-498f-404c-ad3f-83db51be02d9"></kbd>
   
 * 診断結果画面  
 <kbd><img src="https://github.com/champaya/public-alcohol-type/assets/159685650/14195476-c335-423d-9c55-ddbfb2505c20"></kbd>
