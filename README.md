@@ -8,17 +8,21 @@
 **画面**  
 主な機能のキャプチャを紹介します。
 
-* 質問画面（トップ）
+* 初期画面
 <kbd><img src="https://github.com/user-attachments/assets/e5316b66-498f-404c-ad3f-83db51be02d9"></kbd>
   
-* 診断結果画面  
-<kbd><img src="https://github.com/champaya/public-alcohol-type/assets/159685650/14195476-c335-423d-9c55-ddbfb2505c20"></kbd>
+* コマセット後画面
+<kbd><img src="https://github.com/user-attachments/assets/b8f6ac4b-9095-44f9-b581-3982e27ca62c"></kbd>
   
-* 診断結果詳細画面  
-<kbd><img src="https://github.com/champaya/public-alcohol-type/assets/159685650/e8979d30-feba-4c52-9634-82c729f6f2b0"></kbd>
-  
-* すべての診断結果画面  
-<kbd><img src="https://github.com/champaya/public-alcohol-type/assets/159685650/0df8689c-4e31-4f2f-baf8-89effb52905e"></kbd>
+* プレイ中画面  
+<kbd><img src="https://github.com/user-attachments/assets/20b765cb-8df0-45e4-bb2c-0e8cee459893"></kbd>
+
+* 勝敗表示画面
+<kbd><img src="https://github.com/user-attachments/assets/3551aa58-7967-4ef4-a1d4-e617b2d87a1a"></kbd>
+
+* VS CPU画面
+<kbd><img src="https://github.com/user-attachments/assets/c2c27bce-1ec6-47ac-9cf6-35e3a3f916c5"></kbd>
+
 
 **使用技術**  
 | カテゴリ  | 技術スタック |
